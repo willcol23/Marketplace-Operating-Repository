@@ -1,28 +1,63 @@
 # ActionModel Creator OS
 
-This repository is the operating system for defining, documenting, packaging,
-and publishing ActionModel creator products.
+## Overview
 
-## Repository map
+The master operating system for designing, managing, documenting, publishing,
+and scaling AI agents, workflows, marketplace products, and recurring revenue
+assets for the Action Model ecosystem.
 
-| Folder | Purpose |
-| --- | --- |
-| [AGENTS](AGENTS) | Agent specifications, workflows, release notes, enhancements, and marketplace versions |
-| [WORKFLOWS](WORKFLOWS) | Workflow specifications WF-001 through WF-060 |
-| [PRODUCTS](PRODUCTS) | Product inventory and marketplace readiness |
-| [BUNDLES](BUNDLES) | Bundled product offers |
-| [MARKETPLACE](MARKETPLACE) | Listings, pricing, demos, screenshots, and publishing |
-| [REVENUE](REVENUE) | Revenue forecasts and targets |
-| [ROADMAP](ROADMAP) | Current build and release stages |
-| [DOCUMENTATION](DOCUMENTATION) | Quick starts, FAQs, and product/agent/workflow guides |
-| [DASHBOARD](DASHBOARD) | Agent, workflow, product, and revenue metrics |
+## Mission
 
-## Initial goals
+Help workflow creators turn repeatable AI operating patterns into documented,
+packaged, publishable, and measurable products.
 
-- 10 products in year one
-- 100 workflows in year one
-- 50 active users in year one
+## Agent Inventory
 
-All operational records use the identifiers defined in the folders above so
-that products, workflows, bundles, and marketplace releases can be tracked
-consistently.
+AGENT-001 Email Command Agent; AGENT-002 Skill ROI Agent; AGENT-003 Opportunity
+Scanner; AGENT-004 AI Tutor Factory; AGENT-005 AI COO; AGENT-006 Marketplace
+Product Manager.
+
+## Workflow Inventory
+
+WF-001 through WF-060, organized in ten-workflow documentation ranges.
+
+## Product Inventory
+
+P001 Email Command Agent; P002 Skill ROI Agent; P003 Opportunity Scanner;
+P004 AI Tutor Factory; P005 AI COO; P006 Marketplace Product Manager.
+
+## Bundle Inventory
+
+B001 Freelancer Operating System; B002 Creator Growth System; B003 AI Tutor
+Business Suite; B004 Business Operating System.
+
+## Marketplace Strategy
+
+Document, package, demonstrate, price, and publish reusable workflows and
+products with consistent release checklists.
+
+## Revenue Strategy
+
+Track product, workflow, bundle, and marketplace revenue while optimizing
+recurring creator value.
+
+## Roadmap
+
+1. Repository Build
+2. Workflow Documentation
+3. Product Packaging
+4. Marketplace Publishing
+5. Revenue Optimization
+6. Automation at Scale
+
+## Future Expansion
+
+Expand the catalog, automate quality checks, add creator analytics, and scale
+the operating system into a complete AI business operating system.
+
+## Repository Map
+
+See [AGENTS](AGENTS), [WORKFLOWS](WORKFLOWS), [PRODUCTS](PRODUCTS),
+[BUNDLES](BUNDLES), [MARKETPLACE](MARKETPLACE), [REVENUE](REVENUE),
+[DASHBOARD](DASHBOARD), [ROADMAP](ROADMAP), [DOCUMENTATION](DOCUMENTATION),
+[TEMPLATES](TEMPLATES), and [ARCHIVE](ARCHIVE).

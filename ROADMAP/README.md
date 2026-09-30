@@ -6,8 +6,14 @@
 
 ## Release stages
 
-1. Repository Build
-2. Actionist Builder Released
-3. Publish First Product
-4. Publish First Bundle
-5. AI Business Operating System
+### Stage 1 — Repository Build
+
+### Stage 2 — Workflow Documentation
+
+### Stage 3 — Product Packaging
+
+### Stage 4 — Marketplace Publishing
+
+### Stage 5 — Revenue Optimization
+
+### Stage 6 — Automation at Scale
